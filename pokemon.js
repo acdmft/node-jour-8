@@ -9,4 +9,4 @@ function catchPokemon(pokemonId) {
     });
 }
 
-catchPokemon(5);
+catchPokemon(500);
